@@ -1,2 +1,2 @@
 # azure-resume
-My Azure resume following  series
+My Azure resume following CRC series
