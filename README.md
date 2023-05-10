@@ -3,3 +3,4 @@ My Azure resume following [Cloud resume challenge series](https://www.youtube.co
 ## First Steps
 - Frontend folder contains the HTML website.
 - Added main.js file. Contains visitor counter code.
+- Updated profile picture and all frontend text
